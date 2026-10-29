@@ -1,0 +1,27 @@
+# Файлы сборки Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.dt.d.json
+*.dt.module.json
+*.dt.module.json.command
+*.vcxproj.user
+
+# Временные файлы Word
+~$*
+
+# Пока не выкладываются
+лб3/
+лб5/
+Blank_zadania_na_kursovoy_proekt.doc
